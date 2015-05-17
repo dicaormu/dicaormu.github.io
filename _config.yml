@@ -17,10 +17,9 @@ defaults:
 description: Dicaormu
 author:
   name: dicaormu
-  email: dicaormu@yahoo.com
   github: dicaormu
-  twitter: dicaormu
   email_md5: 9fe8f69ed3f442b205816ce9af169529
+  bio: My blog
 
 rss_path: feed.xml
 categories_path: categories.html
